@@ -1,0 +1,18 @@
+# Compiled binaries and debug artifacts
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+*.ipch
+
+# Build output
+/build/
+/bin/
+/obj/
+
+# Downloaded installers
+/msys2-*.exe
