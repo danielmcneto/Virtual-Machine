@@ -1,2 +1,2 @@
 # Virtual Machime
-A CHIP-8 Emulation
+A INTEL 8080 Emulation built in C
