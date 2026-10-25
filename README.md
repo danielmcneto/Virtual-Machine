@@ -34,3 +34,7 @@ Run the following command in PowerShell / Terminal:
 
 ```powershell
 gcc main.c -I C:\msys64\ucrt64\include -o main.exe -lSDL2 -lSDL2main
+```
+
+### AI Use
+Most opcodes in the Emulate8080p function follow similar implementation patterns, differing primarily in the variables involved. As a result, I used AI assistance to implement approximately 50% of the function.
